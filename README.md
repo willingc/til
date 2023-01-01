@@ -11,3 +11,7 @@
 ### linode
 
 [Using the Linode CLI](linode/linode-cli.md)
+
+### zsh
+
+[Using the zim:fw plugin manager](zsh/zimfw-manager.md)

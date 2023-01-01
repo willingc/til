@@ -8,4 +8,6 @@
 
 ## Content
 
-[Linode CLI](linode/linode-cli.md)
+### linode
+
+[Using the Linode CLI](linode/linode-cli.md)

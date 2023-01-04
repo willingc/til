@@ -11,6 +11,7 @@
 ### linode
 
 [Using the Linode CLI](linode/linode-cli.md)
+[Using Linode's Object Storage with boto3](linode/linode-s3.md)
 
 ### zsh
 
